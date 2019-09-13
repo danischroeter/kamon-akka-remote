@@ -1,3 +1,9 @@
+# Moved
+The akka-remoting instrumentation has been <b>integrated into kamon-akka</b> from kamon 2.0 on.
+
+See [kamon-akka](https://github.com/kamon-io/kamon-akka) for the latest version.
+
+
 # Akka Remote Integration<img align="right" src="https://rawgit.com/kamon-io/Kamon/master/kamon-logo.svg" height="150px" style="padding-left: 20px"/>
 
 ![Build Status](https://travis-ci.org/kamon-io/kamon-akka-remote.svg?branch=master)
